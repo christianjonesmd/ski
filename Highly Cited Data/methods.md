@@ -12,7 +12,11 @@ from the "clinical medicine" category were selected and apparent duplicate
 names were manually edited and their associated notes and affiliations were
 combined into a single entry.  The resulting entries were formatted 
 manually and using the standardize.sh script into a single file
-Highly-Cited.csv.  At this time, none of the data have been further
-validated or evaluated.  The 640 entries are in no particular order.
+Highly-Cited.csv. Google searches for the individual entries were performed
+manually and used to gather, where possible, information regarding whether
+the individual was a surgeon (employed or trained in surgery), had an MD or 
+equivalent (including, but not limited to, MBBS), had a ResearcherID, and 
+was apparently male or female; this data collection is imperfect and in 
+progress. 
 
 1. http://highlycited.com
